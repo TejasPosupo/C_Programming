@@ -1,2 +1,2 @@
-# C-Programming
+# C_Programming
 Complete Basics And DSA
